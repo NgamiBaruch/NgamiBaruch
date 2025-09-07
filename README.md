@@ -1,4 +1,6 @@
 # 👋 Salut, moi c’est Baruch
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave"/>
+
 
 💻 **Développeur Fullstack** (Spring Boot • Angular • Flutter)  
 🔐 Passionné par la cybersécurité et la cryptologie  
