@@ -16,26 +16,26 @@
 ---
 
 ## 📌 Projets mis en avant
-- 📝 [Gestion de notes avec Flutter & SQLite](https://github.com/tonpseudo/gestion-notes-flutter)  
-- 💊 [Demande de prix en pharmacie - Spring Boot](https://github.com/tonpseudo/demande-prix-pharma)  
-- 🤖 [Chatbot pré-inscription étudiants (Django + IA)](https://github.com/tonpseudo/chatbot-preregistration)
+- 📝 [Gestion de notes avec Flutter & SQLite](https://github.com/NgamiBaruch/gestion-notes-flutter)  
+- 💊 [Demande de prix en pharmacie - Spring Boot](https://github.com/NgamiBaruch/demande-prix-pharma)  
+- 🤖 [Chatbot pré-inscription étudiants (Django + IA)](https://github.com/NgamiBaruch/chatbot-preregistration)
 
 ---
 
 ## 📊 Stats GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=**tonpseudo**&show_icons=true&theme=radical)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=**tonpseudo**&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=NgamiBaruch&show_icons=true&theme=radical)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgamiBaruch&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Trophées
-![trophy](https://github-profile-trophy.vercel.app/?username=**tonpseudo**&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=NgamiBaruch&theme=onedark)
 
 ---
 
 ## 📫 Contact
 - LinkedIn : [Ton Profil LinkedIn](https://www.linkedin.com/in/tonprofil)  
-- Email : **ton.email@example.com**
+- Email : **baruchngami@gmail.com**
 
 ---
 ✨ _“Le code est comme l’humour : quand il faut l’expliquer, c’est mauvais.”_
