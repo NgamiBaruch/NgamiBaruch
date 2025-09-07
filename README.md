@@ -18,9 +18,9 @@ En ce moment, je découvre le **Cloud Computing** et j’essaie d’élargir mes
 ---
 
 ##  Quelques projets
-- 📝 [Application de gestion de notes (Flutter + SQLite)](https://github.com/NgamiBaruch/gestion-notes-flutter)  
-- 💊 [Demande de prix en pharmacie (Spring Boot)](https://github.com/NgamiBaruch/demande-prix-pharma)  
-- 🤖 [Chatbot pour pré-inscription étudiants (Django + IA)](https://github.com/NgamiBaruch/chatbot-preregistration)
+-  [Application de gestion de notes (Flutter + SQLite)](https://github.com/NgamiBaruch/gestion-notes-flutter)  
+-  [Demande de prix en pharmacie (Spring Boot)](https://github.com/NgamiBaruch/demande-prix-pharma)  
+-  [Chatbot pour pré-inscription étudiants (Django + IA)](https://github.com/NgamiBaruch/chatbot-preregistration)
 
 ---
 
@@ -35,10 +35,10 @@ En ce moment, je découvre le **Cloud Computing** et j’essaie d’élargir mes
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 - LinkedIn : [Mon profil](https://www.linkedin.com/in/tonprofil)  
 - Email : **baruchngami@gmail.com**
 
 ---
 
-✨ _“Le code, c’est un peu comme la musique : c’est en le pratiquant qu’on devient meilleur.”_
+ _“Le code, c’est un peu comme la musique : c’est en le pratiquant qu’on devient meilleur.”_
