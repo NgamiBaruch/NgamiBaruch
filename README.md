@@ -1,4 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave"/>
+
 ## Salut, moi c’est Baruch
 
 Je suis développeur **Fullstack** passionné par le code et les nouvelles technologies.  
