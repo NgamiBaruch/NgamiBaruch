@@ -14,6 +14,10 @@ En ce moment, je découvre le **Cloud Computing** et j’essaie d’élargir mes
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
 ---
 
@@ -41,4 +45,4 @@ En ce moment, je découvre le **Cloud Computing** et j’essaie d’élargir mes
 
 ---
 
- _“Le code, c’est un peu comme la musique : c’est en le pratiquant qu’on devient meilleur.”_
+✨ _“Le code, c’est un peu comme la musique : c’est en le pratiquant qu’on devient meilleur.”_
