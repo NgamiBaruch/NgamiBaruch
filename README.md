@@ -1,13 +1,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave"/>
 
-# Salut, moi c’est Baruch 👨‍💻
+# Salut, moi c’est Baruch 
 
-Je suis développeur **Fullstack** passionné par le code et les nouvelles technologies 🚀.  
+Je suis développeur **Fullstack** passionné par le code et les nouvelles technologies .  
 J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’intéresse aussi à la **cybersécurité**, la **cryptologie** et le **Cloud Computing** ☁️.  
 
 ---
 
-## ⚡ Compétences
+##  Compétences
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
@@ -32,7 +32,7 @@ J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’
 
 ---
 
-## 📈 Activité
+##  Activité
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NgamiBaruch&theme=radical)  
 
 🐍 Snake animation (tes contributions deviennent un snake) :  
@@ -40,17 +40,9 @@ J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’
 
 ---
 
-## 🔗 Me suivre
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tonprofil)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/NgamiBaruch)  
-[![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=fff)](https://x.com/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff)](https://youtube.com/)  
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=fff)](https://t.me/)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=fff)](https://tiktok.com/@)
 
----
 
-## 💝 Support
+##  Support
 Si tu veux soutenir mes projets :  
 
 - **BTC** : `14s9Y9Rb2CUWHSAatiQMhfkpx1MWXofUzw`  
@@ -59,4 +51,4 @@ Si tu veux soutenir mes projets :
 
 ---
 
-⭐ N’hésite pas à **starrer** mes projets pour me soutenir 🚀  
+ N’hésite pas à **starrer** mes projets pour me soutenir 🚀  
