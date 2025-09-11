@@ -20,7 +20,7 @@ J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=NgamiBaruch&show_icons=true&theme=radical)  
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgamiBaruch&layout=compact&theme=radical)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NgamiBaruch&theme=radical)
@@ -37,4 +37,4 @@ J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’
 
 
 
- N’hésite pas à **starrer** mes projets pour me soutenir 🚀  
+ N’hésite pas à **starrer** mes projets pour me soutenir
