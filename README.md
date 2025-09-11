@@ -3,7 +3,7 @@
 # Salut, moi c’est Baruch 
 
 Je suis développeur **Fullstack** passionné par le code et les nouvelles technologies .  
-J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’intéresse aussi à la **cybersécurité**, la **cryptologie** et le **Cloud Computing** ☁️.  
+J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’intéresse aussi à la **cybersécurité**, la **cryptologie** et le **Cloud Computing** .  
 
 ---
 
@@ -27,7 +27,7 @@ J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’
 
 ---
 
-## 🏆 Trophées
+##  Trophées
 ![trophy](https://github-profile-trophy.vercel.app/?username=NgamiBaruch&theme=onedark)
 
 ---
@@ -35,20 +35,6 @@ J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’
 ##  Activité
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NgamiBaruch&theme=radical)  
 
-🐍 Snake animation (tes contributions deviennent un snake) :  
-![snake gif](https://github.com/NgamiBaruch/NgamiBaruch/blob/output/github-contribution-grid-snake.svg)
 
----
-
-
-
-##  Support
-Si tu veux soutenir mes projets :  
-
-- **BTC** : `14s9Y9Rb2CUWHSAatiQMhfkpx1MWXofUzw`  
-- **ETH** : `0x286D65151b622dCC16624cEd8463FDa45585fd60`  
-- **TON** : `UQD1M80nPyzph5ZW1vfp_r19XI5MaerNhDq4dWXbXCo96WFj`  
-
----
 
  N’hésite pas à **starrer** mes projets pour me soutenir 🚀  
