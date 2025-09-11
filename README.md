@@ -1,14 +1,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave"/>
 
-## Salut, moi c’est Baruch
+# Salut, moi c’est Baruch 👨‍💻
 
-Je suis développeur **Fullstack** passionné par le code et les nouvelles technologies.  
-J’aime particulièrement travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’intéresse aussi à la **cybersécurité** et à la **cryptologie**.  
-En ce moment, je découvre le **Cloud Computing** et j’essaie d’élargir mes compétences chaque jour. 
+Je suis développeur **Fullstack** passionné par le code et les nouvelles technologies 🚀.  
+J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’intéresse aussi à la **cybersécurité**, la **cryptologie** et le **Cloud Computing** ☁️.  
 
 ---
 
-##  Compétences principales
+## ⚡ Compétences
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
@@ -20,19 +19,44 @@ En ce moment, je découvre le **Cloud Computing** et j’essaie d’élargir mes
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
 ---
-##  Statistiques GitHub
+
+## 📊 Statistiques GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=NgamiBaruch&show_icons=true&theme=radical)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgamiBaruch&layout=compact&theme=radical)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgamiBaruch&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NgamiBaruch&theme=radical)
 
 ---
 
-##  Trophées
+## 🏆 Trophées
 ![trophy](https://github-profile-trophy.vercel.app/?username=NgamiBaruch&theme=onedark)
 
 ---
 
-##  Me contacter
-- LinkedIn : [Mon profil](https://www.linkedin.com/in/tonprofil)  
-- Email : **baruchngami@gmail.com**
+## 📈 Activité
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NgamiBaruch&theme=radical)  
+
+🐍 Snake animation (tes contributions deviennent un snake) :  
+![snake gif](https://github.com/NgamiBaruch/NgamiBaruch/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+## 🔗 Me suivre
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tonprofil)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/NgamiBaruch)  
+[![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=fff)](https://x.com/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff)](https://youtube.com/)  
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=fff)](https://t.me/)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=fff)](https://tiktok.com/@)
+
+---
+
+## 💝 Support
+Si tu veux soutenir mes projets :  
+
+- **BTC** : `14s9Y9Rb2CUWHSAatiQMhfkpx1MWXofUzw`  
+- **ETH** : `0x286D65151b622dCC16624cEd8463FDa45585fd60`  
+- **TON** : `UQD1M80nPyzph5ZW1vfp_r19XI5MaerNhDq4dWXbXCo96WFj`  
+
+---
+
+⭐ N’hésite pas à **starrer** mes projets pour me soutenir 🚀  
