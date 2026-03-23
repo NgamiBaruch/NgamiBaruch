@@ -37,4 +37,4 @@ J’aime travailler avec **Spring Boot**, **Angular** et **Flutter**, et je m’
 
 
 
- N’hésite pas à **starrer** mes projets pour me soutenir. Me conctater sur whatsapp pour ton vos besoin au +237 672616228
+ N’hésite pas à **starrer** mes projets pour me soutenir. Me conctater sur whatsapp pour tous vos besoin au +237 672616228 oui 6 88 37 12 38
